@@ -4,13 +4,13 @@
     <section id="banner">
         <div class="d-flex justify-content-between align-items-center">
             <div class="container p-4 ">
-                <h2 class="text-primary mb-5"><span class="text-warning">Solusi untuk pengalaman</span> belajar fisika yang
-                    lebih
-                    interaktif dan menyenangkan!</h2>
-                <h5 class="text-primary">
-                    Jelajahi berbagai fitur dan materi yang kami tawarkan untuk meningkatkan pengalaman belajar mengajar
-                    Anda.
+                <h2 class="text-primary mb-5"><span class="text-warning">Selamat Datang Di</span> Menu Media kami! </h2>
+                <h5 class="text-primary mb-3">
+                    Di sini anda akan menemukan berbagai sumber daya multimedia yang dirancang untuk dapat memberikan
+                    informasi yang mendalam dan pengalaman pembelajaran yang menarik. Jelajahi sub-menu berikut untuk
+                    menemukan konten yang sesuai dengan kebutuhan Anda.
                 </h5>
+                <a href="#media" class="btn btn-primary">Temukan Lebih Banyak</a>
             </div>
             <img src="{{ URL::asset('assets/img/banner.png') }}" alt="Banner">
         </div>

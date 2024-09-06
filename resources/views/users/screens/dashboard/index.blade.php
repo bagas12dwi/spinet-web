@@ -7,10 +7,11 @@
                 <h2 class="text-primary mb-5"><span class="text-warning">Solusi untuk pengalaman</span> belajar fisika yang
                     lebih
                     interaktif dan menyenangkan!</h2>
-                <h5 class="text-primary">
+                <h5 class="text-primary mb-3">
                     Jelajahi berbagai fitur dan materi yang kami tawarkan untuk meningkatkan pengalaman belajar mengajar
                     Anda.
                 </h5>
+                <a href="#terbaru" class="btn btn-primary">Temukan Lebih Banyak</a>
             </div>
             <img src="{{ URL::asset('assets/img/banner.png') }}" alt="Banner">
         </div>
